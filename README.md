@@ -12,7 +12,7 @@ Currently in development
 
 3. Run ```pip install -r requirements.txt```
 
-2. Run ```Run.bat```
+4. Run ```Run.bat```
 
 
 ## Credits
